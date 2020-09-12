@@ -1,0 +1,10 @@
+.\objects\motor.o: Code\src\motor.c
+.\objects\motor.o: .\Code\inc\motor.h
+.\objects\motor.o: D:\Keil_v5\ARM\PACK\Keil\STM32F4xx_DFP\2.13.0\Drivers\CMSIS\Device\ST\STM32F4xx\Include\stm32f4xx.h
+.\objects\motor.o: D:\Keil_v5\ARM\PACK\Keil\STM32F4xx_DFP\2.13.0\Drivers\CMSIS\Device\ST\STM32F4xx\Include\stm32f407xx.h
+.\objects\motor.o: .\CMSIS\inc\core_cm4.h
+.\objects\motor.o: D:\Keil_v5\ARM\ARMCC\Bin\..\include\stdint.h
+.\objects\motor.o: .\CMSIS\inc\core_cmInstr.h
+.\objects\motor.o: .\CMSIS\inc\core_cmFunc.h
+.\objects\motor.o: .\CMSIS\inc\core_cmSimd.h
+.\objects\motor.o: D:\Keil_v5\ARM\PACK\Keil\STM32F4xx_DFP\2.13.0\Drivers\CMSIS\Device\ST\STM32F4xx\Include\system_stm32f4xx.h
